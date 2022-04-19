@@ -1,7 +1,7 @@
 # DS5010_Project
 
 **** Objective of the Package **-
-- To understand the sentiment of the customers for the products on walmart based on the reviews submitted by the user on the website using natural language processing techniques **i.e by using the classification techniques available on NLTK package(SentimentIntensityAnalyzer) **
+- To understand the sentiment of the customers for the products on walmart based on the reviews submitted by the user on the website using natural language processing techniques **i.e by using the classification techniques available on NLTK package(SentimentIntensityAnalyzer)**
 - To understand the sentiment of the customer for the products on amazon books based on the reviews submitted by the user **using differnt bag of words techniques like Logistic Regression, Linear SVM and MultiNomial Naive Bayes by using both term frequency and term frequency-inverse document frequency**
  
 **Programming language ***
