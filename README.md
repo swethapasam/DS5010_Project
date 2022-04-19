@@ -41,8 +41,9 @@ Python
 **** visualization.py**
 - This module has functions which helps in creating the word cloud and the overall sentiment of the user based onclassification techniques available on NLTK package(SentimentIntensityAnalyzer)
 - Takes in productid as the input
+<img width="487" alt="image" src="https://user-images.githubusercontent.com/17700749/164025201-cb7baac4-f4ec-4233-8596-1191531defc8.png">
 
-<img width="1552" alt="image" src="https://user-images.githubusercontent.com/17700749/164023778-42091a23-f1fb-4700-88bb-551a55130ca2.png">
+
 - This module has functions which helps in creating the word cloud and the overall sentiment of the user based onclassification techniques available on NLTK package(SentimentIntensityAnalyzer)
 
 ![Figure_1](https://user-images.githubusercontent.com/17700749/164023885-0249bdf6-3862-4437-b3ef-fcc3040680ec.png)
