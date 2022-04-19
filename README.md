@@ -25,7 +25,7 @@ Python
 **sentiment_intensity_analysis.py**
 - This module creates the processed file by taking in input the raw file(web scrapping input) by generating lemma and Sentiment Intenstity
 
-**tf_tfidf.py**
+**tf_tfidf_bag_of_words.py**
 - This code divides the universe universe to train and test and generates a matrix of accuracy for  using differnt bag of words techniques like Logistic Regression, Linear SVM and MultiNomial Naive Bayes by using both term frequency and term frequency-inverse document frequency
 
 
