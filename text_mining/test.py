@@ -55,7 +55,7 @@ viz.create_wordcloud(128004808)
 viz.intensity_plots(128004808)
 
 
-products_list_for_bag_of_words=['B000F83SZQ','B00BT0J8ZS','B00BTIDW4S','B000FA64QO','B000FBFMVG','B00JDYC5OI]
+products_list_for_bag_of_words=['B000F83SZQ','B00BT0J8ZS','B00BTIDW4S','B000FA64QO','B000FBFMVG','B00JDYC5OI']
 t.log_reg_tf_unigram('B006GWO5WK')
 t.log_reg_tf_uni_bigram('B006GWO5WK')
 t.log_reg_tf_uni_bi_trigram('B006GWO5WK')
