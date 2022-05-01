@@ -47,7 +47,7 @@ b.print_data()
 # print products list
 b.print_product_ids()
 # add review
-b.add_review()
+# b.add_review()
 
 # This function creates a word cloud for a certain product 
 viz.create_wordcloud(128004808)
